@@ -1,0 +1,61 @@
+levantamento de requisitos:
+
+dor: dificuldade na divulgação e vendas de salgados
+
+solução: desenvolvimento de um site com: 
+
+catalogo dos produtos (combos, individuais, fritos, congelados)
+preços, junto com seus respectivos produtos
+descrição dos produtos
+opções de entrega com CEP e taxa
+cupom de desconto
+aba para link do ifood
+navegação: lupa, filtros, catalogo, carrinho de compras, favoritos
+aba de avaliação com comentários, likes e fotos 
+acumular pontos nas avalições para trocar em produtos da loja
+e ganhar pontos nas compras automaticamente
+
+rodapé: contato (instagram e whatsapp)
+formas de pagamento
+politica de privacidade
+politica de troca e devolução 
+sobre nós
+
+
+campo de descrição para falar com vendedor as obs do produto na hora da compra
+
+
+
+sobre nos:
+
+no ano de 2004 comecei a faculdade na unisseb, consegui um estagio na TBG onde trabalhei 1 ano e pouco e precisamos nos mudar pra SC onde veio o desemprego e larguei a faculdade pois tinha 3 filhos e o lugar era periogoso, onde comecei a fazer salgados e bolos para o sustento da casa, foram 8 anos, 5 dele foi onde a renda da casa era totalmente das vendas do salgado, depois voltamos pra SP onde ficou uma greve e voltei com tudo agora para ajudar na renda da casa e de certa forma esvaziar a mente.
+
+
+cores como marrom, laranja, paleta que remeta a salgados
+usar logo marca já existente
+
+
+paginas:
+
+homePage com: inforBar, produtos, filtros, menu, carrinho de compras, favoritos, ofertas, combos...
+pagina do carrinho de compras: com visualização dos produtos e opção de adicionar mais itens ou ir para pagina de realizar pagamento;
+pagina de pagamento: nome, email, cpf, CEP, formas de pagamentos (pix, cartão de debito, credito);
+pagina do produto individual;
+pagina de avaliações (com comentários, curtidas e fotos);
+pagina com pontos acumulados;
+
+rodapé em todas com contato (instagram e whatsapp), formas de pagamento, politica de privacidade, politica de troca e devolução, sobre nós
+
+
+pop-up após compra com pontos adquiridos! 
+
+
+
+
+
+
+
+
+
+
+
