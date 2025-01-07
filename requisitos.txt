@@ -51,6 +51,16 @@ pop-up após compra com pontos adquiridos!
 
 
 
+link util:
+
+fazer a politica de priv
+https://politicaprivacidade.com/#:~:text=O%20que%20%C3%A9%20uma%20Pol%C3%ADtica,e%20fazem%20uso%20desses%20dados.
+
+firebase para hospedar o site
+https://firebase.google.com/?gad_source=1&gclid=EAIaIQobChMI17D1orfjigMVxl9IAB1ZbC8UEAAYASAAEgLcVfD_BwE&gclsrc=aw.ds&hl=pt-br
+
+
+
 
 
 
